@@ -1,3 +1,3 @@
-this line was addd on github
+newline
 this is my git practice
 # git-practice

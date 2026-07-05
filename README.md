@@ -1,5 +1,2 @@
-new line123
-
-
-this is my git practice
-
+new line
+this is my git practic

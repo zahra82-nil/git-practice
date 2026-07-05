@@ -1,5 +1,4 @@
 new line
 
-
-this is my git practice
-
+this is my git practic
+yes 
